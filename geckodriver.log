@@ -3721,3 +3721,439 @@ Read port: 45163
 console.error: ({})
 DevTools listening on ws://127.0.0.1:60311/devtools/browser/d848543b-55ce-45b9-b4ea-1423efa8d3e4
 1691495510229	Marionette	INFO	Stopped listening on port 45163
+1691498903960	geckodriver	INFO	Listening on 127.0.0.1:55881
+1691498904016	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "38391" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilecFc3Za"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691498904729	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691498904839	Marionette	INFO	Listening on port 45257
+WebDriver BiDi listening on ws://127.0.0.1:38391
+Read port: 45257
+1691498905106	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:38391/devtools/browser/ffec2484-4bd4-437b-be83-509fe11c4e29
+JavaScript warning: https://cf.bstatic.com/static/js/error_catcher_bec_cloudfront_sd/0acd2ada6c74d5dec978a04ea837952bdf050cd2.js, line 1: Script terminated by timeout at:
+l._i_@https://cf.bstatic.com/static/js/error_catcher_bec_cloudfront_sd/0acd2ada6c74d5dec978a04ea837952bdf050cd2.js:1:1031
+R@https://cf.bstatic.com/static/js/main_cloudfront_sd/0b3a18eccbd01ca5729b75d52e6fbac41c7f7db4.js:24:322325
+
+1691498916934	Marionette	INFO	Stopped listening on port 45257
+1691498934224	geckodriver	INFO	Listening on 127.0.0.1:53567
+1691498934282	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "40977" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileoEESpm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691498935266	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691498935378	Marionette	INFO	Listening on port 43111
+Read port: 43111
+WebDriver BiDi listening on ws://127.0.0.1:40977
+1691498935452	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:40977/devtools/browser/0d4efb10-017a-4492-b7f1-81768c798171
+JavaScript warning: https://cf.bstatic.com/static/js/error_catcher_bec_cloudfront_sd/0acd2ada6c74d5dec978a04ea837952bdf050cd2.js, line 1: Script terminated by timeout at:
+l._i_@https://cf.bstatic.com/static/js/error_catcher_bec_cloudfront_sd/0acd2ada6c74d5dec978a04ea837952bdf050cd2.js:1:1031
+R@https://cf.bstatic.com/static/js/main_cloudfront_sd/0b3a18eccbd01ca5729b75d52e6fbac41c7f7db4.js:24:322325
+
+1691498955768	Marionette	INFO	Stopped listening on port 43111
+1691499365377	geckodriver	INFO	Listening on 127.0.0.1:49727
+1691499365453	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "45815" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7FyOxH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691499366224	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691499366322	Marionette	INFO	Listening on port 46409
+WebDriver BiDi listening on ws://127.0.0.1:45815
+Read port: 46409
+1691499366544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:45815/devtools/browser/15fa8f1b-3a74-4457-a9a2-91569e6e9fef
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+1691499418929	geckodriver	INFO	Listening on 127.0.0.1:41447
+1691499419003	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "55143" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKLGJ74"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691499419724	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691499419827	Marionette	INFO	Listening on port 41069
+WebDriver BiDi listening on ws://127.0.0.1:55143
+Read port: 41069
+1691499420077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+JavaScript warning: https://cf.bstatic.com/static/js/error_catcher_bec_cloudfront_sd/0acd2ada6c74d5dec978a04ea837952bdf050cd2.js, line 1: Script terminated by timeout at:
+l._i_@https://cf.bstatic.com/static/js/error_catcher_bec_cloudfront_sd/0acd2ada6c74d5dec978a04ea837952bdf050cd2.js:1:1031
+R@https://cf.bstatic.com/static/js/main_cloudfront_sd/0b3a18eccbd01ca5729b75d52e6fbac41c7f7db4.js:24:322325
+
+1691499421631	Marionette	INFO	Stopped listening on port 46409
+DevTools listening on ws://127.0.0.1:55143/devtools/browser/7f69203a-121b-4343-9b3a-e4db180844a1
+1691499424168	Marionette	INFO	Stopped listening on port 41069
+1691499684337	geckodriver	INFO	Listening on 127.0.0.1:41919
+1691499684409	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "54425" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegxa2kL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691499685063	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691499685206	Marionette	INFO	Listening on port 44737
+Read port: 44737
+WebDriver BiDi listening on ws://127.0.0.1:54425
+1691499685324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:54425/devtools/browser/71222d58-b467-4f81-aa3c-18a5649178db
+1691499689370	Marionette	INFO	Stopped listening on port 44737
+1691499810661	geckodriver	INFO	Listening on 127.0.0.1:51949
+1691499810755	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "56643" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCMNbAl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691499811509	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691499811612	Marionette	INFO	Listening on port 39941
+WebDriver BiDi listening on ws://127.0.0.1:56643
+Read port: 39941
+1691499811852	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56643/devtools/browser/1695f4e3-22d7-4157-ae21-9ba3fa14bc50
+1691499816197	Marionette	INFO	Stopped listening on port 39941
+1691499887544	geckodriver	INFO	Listening on 127.0.0.1:50823
+1691499887595	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "38755" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilealAe7c"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691499888420	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691499888516	Marionette	INFO	Listening on port 32811
+WebDriver BiDi listening on ws://127.0.0.1:38755
+Read port: 32811
+1691499888779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:38755/devtools/browser/2000cd20-c9f3-4aa9-a273-182df99c24d0
+1691499893886	Marionette	INFO	Stopped listening on port 32811
+JavaScript warning: https://cf.bstatic.com/static/js/core-deps-inlinedet_cloudfront_sd/6d177594fcf3d8acf87d6a208d7427779018df74.js, line 7: Script terminated by timeout at:
+o@https://cf.bstatic.com/static/js/core-deps-inlinedet_cloudfront_sd/6d177594fcf3d8acf87d6a208d7427779018df74.js:7:1919
+a/<@https://cf.bstatic.com/static/js/core-deps-inlinedet_cloudfront_sd/6d177594fcf3d8acf87d6a208d7427779018df74.js:7:2676
+
+1691500547352	geckodriver	INFO	Listening on 127.0.0.1:34963
+1691500547410	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "34973" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOVqg4D"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691500548161	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691500548256	Marionette	INFO	Listening on port 34093
+WebDriver BiDi listening on ws://127.0.0.1:34973
+Read port: 34093
+1691500548488	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:34973/devtools/browser/e0dcebea-51cc-4a3a-8a36-3a1fcf65d2e0
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript warning: https://cf.bstatic.com/static/js/error_catcher_bec_cloudfront_sd/0acd2ada6c74d5dec978a04ea837952bdf050cd2.js, line 1: Script terminated by timeout at:
+l._i_@https://cf.bstatic.com/static/js/error_catcher_bec_cloudfront_sd/0acd2ada6c74d5dec978a04ea837952bdf050cd2.js:1:1031
+R@https://cf.bstatic.com/static/js/main_cloudfront_sd/0b3a18eccbd01ca5729b75d52e6fbac41c7f7db4.js:24:322325
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1691500584036	Marionette	INFO	Stopped listening on port 34093
+1691501181609	geckodriver	INFO	Listening on 127.0.0.1:46299
+1691501181673	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "56795" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJjHzBq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691501182314	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691501182410	Marionette	INFO	Listening on port 33569
+WebDriver BiDi listening on ws://127.0.0.1:56795
+Read port: 33569
+1691501182643	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:56795/devtools/browser/bc1634a1-9292-4dac-a02b-e581c04e3bc2
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+JavaScript warning: https://cf.bstatic.com/static/js/error_catcher_bec_cloudfront_sd/0acd2ada6c74d5dec978a04ea837952bdf050cd2.js, line 1: Script terminated by timeout at:
+l._i_@https://cf.bstatic.com/static/js/error_catcher_bec_cloudfront_sd/0acd2ada6c74d5dec978a04ea837952bdf050cd2.js:1:1031
+R@https://cf.bstatic.com/static/js/main_cloudfront_sd/0b3a18eccbd01ca5729b75d52e6fbac41c7f7db4.js:24:322325
+
+1691501202609	Marionette	INFO	Stopped listening on port 33569
+1691501366066	geckodriver	INFO	Listening on 127.0.0.1:46177
+1691501366121	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "45203" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileudNKx4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691501366916	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691501367022	Marionette	INFO	Listening on port 44275
+WebDriver BiDi listening on ws://127.0.0.1:45203
+Read port: 44275
+1691501367314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:45203/devtools/browser/a53ac9dd-2b6e-4a6d-adbe-f454893ba72b
+JavaScript warning: https://cf.bstatic.com/static/js/error_catcher_bec_cloudfront_sd/0acd2ada6c74d5dec978a04ea837952bdf050cd2.js, line 1: Script terminated by timeout at:
+l._i_@https://cf.bstatic.com/static/js/error_catcher_bec_cloudfront_sd/0acd2ada6c74d5dec978a04ea837952bdf050cd2.js:1:1031
+R@https://cf.bstatic.com/static/js/main_cloudfront_sd/0b3a18eccbd01ca5729b75d52e6fbac41c7f7db4.js:24:322325
+
+1691501389742	Marionette	INFO	Stopped listening on port 44275
+1691502091235	geckodriver	INFO	Listening on 127.0.0.1:40855
+1691502091299	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "45951" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVo97kf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691502092085	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691502092181	Marionette	INFO	Listening on port 40477
+WebDriver BiDi listening on ws://127.0.0.1:45951
+Read port: 40477
+1691502092340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:45951/devtools/browser/f980462f-5fc2-4b75-8b9a-07dc4365ff8e
+JavaScript warning: https://cf.bstatic.com/static/js/error_catcher_bec_cloudfront_sd/0acd2ada6c74d5dec978a04ea837952bdf050cd2.js, line 1: Script terminated by timeout at:
+l._i_@https://cf.bstatic.com/static/js/error_catcher_bec_cloudfront_sd/0acd2ada6c74d5dec978a04ea837952bdf050cd2.js:1:1031
+R@https://cf.bstatic.com/static/js/main_cloudfront_sd/0b3a18eccbd01ca5729b75d52e6fbac41c7f7db4.js:24:322325
+
+1691502107988	Marionette	INFO	Stopped listening on port 40477
+1691502822804	geckodriver	INFO	Listening on 127.0.0.1:54423
+1691502822869	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "40675" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileeQabZH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691502823567	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691502823679	Marionette	INFO	Listening on port 46231
+WebDriver BiDi listening on ws://127.0.0.1:40675
+Read port: 46231
+1691502823965	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:40675/devtools/browser/d1e92c06-b30a-4ba0-a7f3-50dc15d1f520
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript warning: https://cf.bstatic.com/static/js/main_cloudfront_sd/0b3a18eccbd01ca5729b75d52e6fbac41c7f7db4.js, line 24: Script terminated by timeout at:
+R@https://cf.bstatic.com/static/js/main_cloudfront_sd/0b3a18eccbd01ca5729b75d52e6fbac41c7f7db4.js:24:322325
+
+1691502857124	Marionette	INFO	Stopped listening on port 46231
+1691502948036	geckodriver	INFO	Listening on 127.0.0.1:33033
+1691502948093	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "48887" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilek0LBk5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691502948768	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691502948869	Marionette	INFO	Listening on port 34791
+WebDriver BiDi listening on ws://127.0.0.1:48887
+Read port: 34791
+1691502949059	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:48887/devtools/browser/f7736899-932a-40b1-99f6-ffefcb90a922
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript warning: https://cf.bstatic.com/static/js/error_catcher_bec_cloudfront_sd/0acd2ada6c74d5dec978a04ea837952bdf050cd2.js, line 1: Script terminated by timeout at:
+l._i_@https://cf.bstatic.com/static/js/error_catcher_bec_cloudfront_sd/0acd2ada6c74d5dec978a04ea837952bdf050cd2.js:1:1031
+R@https://cf.bstatic.com/static/js/main_cloudfront_sd/0b3a18eccbd01ca5729b75d52e6fbac41c7f7db4.js:24:322325
+
+1691502984746	Marionette	INFO	Stopped listening on port 34791
+1691503699310	geckodriver	INFO	Listening on 127.0.0.1:38521
+1691503699376	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "43827" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9YTnCA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691503700104	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691503700205	Marionette	INFO	Listening on port 37573
+WebDriver BiDi listening on ws://127.0.0.1:43827
+Read port: 37573
+1691503700459	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:43827/devtools/browser/249b9f6f-7039-41a9-8a69-1f40e9dcad4f
+JavaScript warning: https://cf.bstatic.com/static/js/error_catcher_bec_cloudfront_sd/0acd2ada6c74d5dec978a04ea837952bdf050cd2.js, line 1: Script terminated by timeout at:
+l._i_@https://cf.bstatic.com/static/js/error_catcher_bec_cloudfront_sd/0acd2ada6c74d5dec978a04ea837952bdf050cd2.js:1:1031
+R@https://cf.bstatic.com/static/js/main_cloudfront_sd/0b3a18eccbd01ca5729b75d52e6fbac41c7f7db4.js:24:322325
+
+1691503725492	Marionette	INFO	Stopped listening on port 37573
+1691503727072	geckodriver	INFO	Listening on 127.0.0.1:52867
+1691503727128	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "57693" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezvkASJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691503727839	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691503727948	Marionette	INFO	Listening on port 37683
+WebDriver BiDi listening on ws://127.0.0.1:57693
+Read port: 37683
+1691503728224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57693/devtools/browser/d93bce76-35dc-4636-bf5f-e3e8b435e2f4
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 597))
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript warning: https://cf.bstatic.com/static/js/error_catcher_bec_cloudfront_sd/0acd2ada6c74d5dec978a04ea837952bdf050cd2.js, line 1: Script terminated by timeout at:
+l._i_@https://cf.bstatic.com/static/js/error_catcher_bec_cloudfront_sd/0acd2ada6c74d5dec978a04ea837952bdf050cd2.js:1:1031
+R@https://cf.bstatic.com/static/js/main_cloudfront_sd/0b3a18eccbd01ca5729b75d52e6fbac41c7f7db4.js:24:322325
+
+1691503768140	Marionette	INFO	Stopped listening on port 37683
+1691503772995	geckodriver	INFO	Listening on 127.0.0.1:47739
+1691503773063	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "49491" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileiVPgFa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691503773818	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691503773908	Marionette	INFO	Listening on port 43889
+WebDriver BiDi listening on ws://127.0.0.1:49491
+Read port: 43889
+1691503774144	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:49491/devtools/browser/3c3e09a6-1a43-49f2-b054-39abb3f36df4
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript warning: https://cf.bstatic.com/static/js/error_catcher_bec_cloudfront_sd/0acd2ada6c74d5dec978a04ea837952bdf050cd2.js, line 1: Script terminated by timeout at:
+l._i_@https://cf.bstatic.com/static/js/error_catcher_bec_cloudfront_sd/0acd2ada6c74d5dec978a04ea837952bdf050cd2.js:1:1031
+R@https://cf.bstatic.com/static/js/main_cloudfront_sd/0b3a18eccbd01ca5729b75d52e6fbac41c7f7db4.js:24:322325
+
+1691503831816	Marionette	INFO	Stopped listening on port 43889
+1691504308546	geckodriver	INFO	Listening on 127.0.0.1:35429
+1691504308628	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "55607" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekVJjQg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691504309387	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691504309488	Marionette	INFO	Listening on port 35985
+WebDriver BiDi listening on ws://127.0.0.1:55607
+Read port: 35985
+1691504309729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:55607/devtools/browser/13b61c09-fc35-4982-a34c-8585a42df1bd
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 597))
+1691504332075	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:180:31
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript warning: https://cf.bstatic.com/static/js/main_cloudfront_sd/0b3a18eccbd01ca5729b75d52e6fbac41c7f7db4.js, line 24: Script terminated by timeout at:
+R@https://cf.bstatic.com/static/js/main_cloudfront_sd/0b3a18eccbd01ca5729b75d52e6fbac41c7f7db4.js:24:322325
+
+1691504340765	Marionette	INFO	Stopped listening on port 35985
+console.warn: services.settings: main/tippytop sync interrupted by shutdown
+console.warn: services.settings: main/top-sites sync interrupted by shutdown
+console.warn: services.settings: main/doh-providers sync interrupted by shutdown
+console.warn: services.settings: main/doh-config sync interrupted by shutdown
+console.warn: services.settings: main/devtools-devices sync interrupted by shutdown
+console.warn: services.settings: main/websites-with-shared-credential-backends sync interrupted by shutdown
+console.warn: services.settings: main/translations-models sync interrupted by shutdown
+console.warn: services.settings: main/cookie-banner-rules-list sync interrupted by shutdown
+console.warn: services.settings: main/language-dictionaries sync interrupted by shutdown
+console.warn: services.settings: main/password-recipes sync interrupted by shutdown
+console.warn: services.settings: main/password-rules sync interrupted by shutdown
+console.warn: services.settings: main/translations-identification-models sync interrupted by shutdown
+console.warn: services.settings: main/translations-wasm sync interrupted by shutdown
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+console.warn: services.settings: main/search-telemetry-v2 sync interrupted by shutdown
+1691504343128	geckodriver	INFO	Listening on 127.0.0.1:57513
+1691504343196	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "34039" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesRcU2q"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691504343940	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691504344044	Marionette	INFO	Listening on port 42457
+WebDriver BiDi listening on ws://127.0.0.1:34039
+Read port: 42457
+1691504344288	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:34039/devtools/browser/b2c785a6-8982-4df7-8063-ceb2b6dd3b12
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript warning: https://cf.bstatic.com/static/js/main_cloudfront_sd/0b3a18eccbd01ca5729b75d52e6fbac41c7f7db4.js, line 24: Script terminated by timeout at:
+R@https://cf.bstatic.com/static/js/main_cloudfront_sd/0b3a18eccbd01ca5729b75d52e6fbac41c7f7db4.js:24:322325
+
+1691504381708	Marionette	INFO	Stopped listening on port 42457
+1691504472781	geckodriver	INFO	Listening on 127.0.0.1:51159
+1691504472842	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "50437" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAl10V6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691504473570	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691504473702	Marionette	INFO	Listening on port 44279
+WebDriver BiDi listening on ws://127.0.0.1:50437
+Read port: 44279
+1691504473959	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:50437/devtools/browser/e2402eba-d8ad-4f33-8c69-bc777a4df49c
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 597))
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript warning: https://cf.bstatic.com/static/js/error_catcher_bec_cloudfront_sd/0acd2ada6c74d5dec978a04ea837952bdf050cd2.js, line 1: Script terminated by timeout at:
+l._i_@https://cf.bstatic.com/static/js/error_catcher_bec_cloudfront_sd/0acd2ada6c74d5dec978a04ea837952bdf050cd2.js:1:1031
+R@https://cf.bstatic.com/static/js/main_cloudfront_sd/0b3a18eccbd01ca5729b75d52e6fbac41c7f7db4.js:24:322325
+
+1691504515787	Marionette	INFO	Stopped listening on port 44279
+1691504794838	geckodriver	INFO	Listening on 127.0.0.1:45403
+1691504794913	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr ... te" "--remote-debugging-port" "37193" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesRYugL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691504795585	Marionette	INFO	Marionette enabled
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1691504795681	Marionette	INFO	Listening on port 45711
+WebDriver BiDi listening on ws://127.0.0.1:37193
+Read port: 45711
+1691504795896	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+DevTools listening on ws://127.0.0.1:37193/devtools/browser/d5e6260d-7b76-4746-8a56-fd76025ae289
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 597))
+console.error: "update.locale" " file doesn't exist in either the application or GRE directories"
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript warning: https://cf.bstatic.com/static/js/error_catcher_bec_cloudfront_sd/0acd2ada6c74d5dec978a04ea837952bdf050cd2.js, line 1: Script terminated by timeout at:
+l._i_@https://cf.bstatic.com/static/js/error_catcher_bec_cloudfront_sd/0acd2ada6c74d5dec978a04ea837952bdf050cd2.js:1:1031
+R@https://cf.bstatic.com/static/js/main_cloudfront_sd/0b3a18eccbd01ca5729b75d52e6fbac41c7f7db4.js:24:322325
+
+1691505157179	Marionette	INFO	Stopped listening on port 45711
