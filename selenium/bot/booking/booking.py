@@ -5,6 +5,7 @@ import booking.constants as const
 import os
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from booking.booking_filteration import BookingFilteration
 
 
 class Booking(webdriver.Firefox): #the class will inherit the webdriver.firefox module, 
@@ -110,5 +111,16 @@ class Booking(webdriver.Firefox): #the class will inherit the webdriver.firefox 
         )
         for i in range(count-1):
             increase_adults_element.click()
+            
+    def click_search(self):
+        search_button = self.find_element(
+            By.CSS_SELECTOR,
+            'button[type="submit"]'
+        )
+        search_button.click()
+
+    def apply_filteration(self):
+        filteration = BookingFilteration(driver = self)
+        filteration.apply_star_rating()
 
         

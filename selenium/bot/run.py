@@ -13,3 +13,5 @@ with Booking() as bot: #default teardown is False as WE set it in booking.py
     bot.select_date(check_in_date='2023-08-16', 
                     check_out_date= "2023-09-07")
     bot.adults_count(9)
+    bot.click_search()
+    bot.apply_filteration()
