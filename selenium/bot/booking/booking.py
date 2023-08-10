@@ -80,12 +80,35 @@ class Booking(webdriver.Firefox): #the class will inherit the webdriver.firefox 
         )
         check_out_element.click()
 
-    def adults_count(self, no_of_adults):
+    def adults_count(self, count):
         selection_element = self.find_element(
             By.CSS_SELECTOR,
-            'button[data-testid="occupancy-config"]'
+            'span[data-testid="searchbox-form-button-icon"]'
         )
         selection_element.click()
 
+        while True:
+            
+            decrease_adults_element = self.find_element(
+            By.CSS_SELECTOR,
+            'path[d="M20.25 12.75H3.75a.75.75 0 0 1 0-1.5h16.5a.75.75 0 0 1 0 1.5z"]'
+            )
+            decrease_adults_element.click()
+            #if the value of adults reaches 1 then we should get out of the while loop
+            adults_value_element = self.find_element(
+                By.ID,
+                'id="group_adults"'
+            )
+            adults_value = adults_value_element.get_attribute('value') ##should give adults count 
+
+            if int(adults_value)==1:
+                break
+        
+        increase_adults_element = self.find_element(
+            By.CSS_SELECTOR,
+            'path[d="M20.25 11.25h-7.5v-7.5a.75.75 0 0 0-1.5 0v7.5h-7.5a.75.75 0 0 0 0 1.5h7.5v7.5a.75.75 0 0 0 1.5 0v-7.5h7.5a.75.75 0 0 0 0-1.5z"]'
+        )
+        for i in range(count-1):
+            increase_adults_element.click()
 
         
