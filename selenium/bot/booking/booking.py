@@ -123,4 +123,4 @@ class Booking(webdriver.Firefox): #the class will inherit the webdriver.firefox 
         filteration = BookingFilteration(driver = self)
         filteration.apply_star_rating()
 
-        
+        filt1= self.find_element(By.XPATH)
