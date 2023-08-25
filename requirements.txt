@@ -12,3 +12,5 @@ trio==0.22.2
 trio-websocket==0.10.3
 urllib3==2.0.4
 wsproto==1.2.0
+pandas==2.0.3
+numpy==1.24.3
